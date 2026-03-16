@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Daniel Wubie Chanyalew, a passionate Full-Stack Developer and Shopify Web Designer based in Ethiopia. I specialize in building modern, responsive, and high-performance websites that help businesses grow online.<br><br>💻 What I Do:<br><br>Full-Stack Web Development<br><br>Shopify Store Design & Customization<br><br>UI/UX Design<br><br>API Development & Integration<br><br>Database Design & Management<br><br>Website Optimization & Deployment<br><br>I am always learning new technologies and improving my skills to stay up-to-date with modern web standards. I enjoy turning ideas into real, functional digital products.
+I’m Daniel Wubie Chanyalew, a passionate Full-Stack Developer and Shopify Web Designer based in Ethiopia. I specialize in building modern, responsive, and high-performance websites that help businesses grow online.<br><br>💻 What I Do:<br>Full-Stack Web Development<br>Shopify Store Design & Customization<br><br>UI/UX Design<br>API Development & Integration<br>Database Design & Management<br>Website Optimization & Deployment<br>I am always learning new technologies and improving my skills to stay up-to-date with modern web standards. I enjoy turning ideas into real, functional digital products.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@ I’m Daniel Wubie Chanyalew, a passionate Full-Stack Developer and Shopify Web 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danielwubie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=danielwubie&limit=5&theme=dark&combine_all_yearly_contributions=true)
